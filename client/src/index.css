@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+body {
+    font-family: 'Poppins';
+}
+
+.col-text-right{
+    text-align: right;
+}
+
+.navbar-color{
+    background-color: #3A5A40;
+}
+
+.button-primary-color{
+    background-color: #3A5A40;
+    --bs-btn-border-color: #3A5A40;
+    --bs-btn-hover-bg: #293D33;
+    --bs-btn-hover-border-color: black;
+
+}
+
+.button-secondary-color{
+    background-color: #588157;
+    --bs-btn-border-color: #588157;
+    --bs-btn-hover-bg: #3A5A40;
+    --bs-btn-hover-border-color: #293D33;
+}
+
+.btn-primary{
+    --bs-btn-bg: #588157;
+    --bs-btn-border-color: #588157;
+    --bs-btn-hover-bg: #3A5A40;
+    --bs-btn-hover-border-color: #293D33;
+}
+.ddbutton-secondary-color:hover{
+    --bs-btn-bg: #588157;
+    --bs-btn-border-color: #588157;
+    --bs-btn-hover-bg: #3A5A40;
+    --bs-btn-hover-border-color: #293D33;
+}
+.link-color{
+ color:#588157;
+}
+
+.link-color:hover{
+
+    color: #3A5A40;
+}
+
+.link-color-secondary{
+    color:#A3B18A;
+   }
+   
+   .link-color-secondary:hover{
+   
+       color: #588157;
+   }
+
+.main-fluid-container{
+    --bs-gutter-x: 0;
+}
