@@ -42,21 +42,4 @@ During the development of CMSmall, we acquired a range of valuable skills, inclu
 
 ## Example Screenshot
 
-![Front Office](./imgs/non-logged-list.png)
-![Back Office](./imgs/logged-list-bo.png)
-![Create Page 1](./imgs/create-page.png)
-![Create Page 2](./imgs/create-page-submitted.png)
-
-
-## Copyright Disclaimer
-
-This project includes images and materials that are the intellectual property of The Pokémon Company. These materials are used for educational purposes and fall under fair use principles.
-
-- The use of Pokémon images and content is intended for educational and non-commercial purposes only.
-- This project is not affiliated with, endorsed, or sponsored by The Pokémon Company.
-- All Pokémon-related trademarks and copyrights are the property of The Pokémon Company.
-
-No copyright infringement is intended, and all credit for Pokémon and related materials goes to The Pokémon Company.
-
-If you have any concerns or questions regarding the use of these materials, please contact us for prompt removal or appropriate credit.
 
